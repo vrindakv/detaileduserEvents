@@ -23,8 +23,8 @@
     {
       "id": "2",
       "title": "Event Title 2",
-      "start_date": "03/02/2020",
-      "end_date": "10/02/2020",
+      "start_date": "10/02/2020",
+      "end_date": "12/02/2020",
       "description": "Event description appears here.A radio group is used with its fields visually hidden. It contains s ix radio buttons, one for each star and anotherfor 0 stars, which is checked by default.",
       "isSubcategory": false
     }
