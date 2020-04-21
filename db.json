@@ -5,6 +5,9 @@
       "title": "Event Title 1",
       "start_date": "10/02/2020",
       "end_date": "12/02/2020",
+      "Feasibility": "70%",
+      "ideaRelevance": "60%",
+      "Novelty": "80%",
       "description": "Event description appears here.A radio group is used with its fields visually hidden. It contains s ix radio buttons, one for each star and anotherfor 0 stars, which is checked by default.",
       "isSubcategory": true,
       "subcategory": [
@@ -25,6 +28,9 @@
       "title": "Event Title 2",
       "start_date": "10/02/2020",
       "end_date": "12/02/2020",
+      "Feasibility": "70%",
+      "ideaRelevance": "80%",
+      "Novelty": "90%",
       "description": "Event description appears here.A radio group is used with its fields visually hidden. It contains s ix radio buttons, one for each star and anotherfor 0 stars, which is checked by default.",
       "isSubcategory": false
     }
